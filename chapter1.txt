@@ -1,5 +1,8 @@
 hello world this is 1
 I have changed it by using vim 
+<<<<<<< HEAD
 12888283 
 *master
 
+=======
+>>>>>>> ogabek
